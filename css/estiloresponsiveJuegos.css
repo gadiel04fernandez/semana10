@@ -66,6 +66,7 @@
   /* Fake image, just for this example */
   .fakeimg {
     background-color: #aaa;
+    width: 45%;
     padding: 20px;
   }
   
