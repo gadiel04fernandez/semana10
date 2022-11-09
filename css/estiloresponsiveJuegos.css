@@ -75,6 +75,22 @@
     width: 95%;
     padding: 20px;
   }
+
+  .fakeimge {
+    background-color: #aaa;
+    width: 95%;
+    padding: 20px;
+  }
+  .fakeimgj {
+    background-color: #aaa;
+    width: 95%;
+    padding: 20px;
+  }
+  .fakeimged {
+    background-color: #aaa;
+    width: 95%;
+    padding: 20px;
+  }
   /* Footer */
   .footer {
     padding: 20px;
