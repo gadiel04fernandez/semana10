@@ -70,6 +70,11 @@
     padding: 20px;
   }
   
+  .fakeimgover {
+    background-color: #aaa;
+    width: 45%;
+    padding: 20px;
+  }
   /* Footer */
   .footer {
     padding: 20px;
