@@ -61,7 +61,7 @@
   /* Fake image, just for this example */
   .fakeimg {
     background-color: #aaa;
-    width: 100%;
+    width: 50%;
     padding: 20px;
   }
   
@@ -71,6 +71,12 @@
     text-align: center;
     background: #ddd;
   }
+
+  .fakeimg {
+    box-shadow: 8px 5px 0px 0px rgba(0, 0, 0, 0.3);
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+  
   
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 700px) {
