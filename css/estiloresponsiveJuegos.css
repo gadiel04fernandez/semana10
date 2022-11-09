@@ -98,6 +98,49 @@
     background: #ddd;
   }
 
+  .fakeimge {
+    background: linear-gradient(
+      45deg,
+      rgba(27, 116, 122, 1) 12%,
+      rgba(119, 7, 179, 1) 84%
+    );
+    background-blend-mode: normal;
+    box-shadow: 0px 0px 179px 133px rgba(0, 0, 0, 0.3);
+  }
+  
+  .text {
+    font: normal normal 25px/1.2 "Good Foot";
+    letter-spacing: 0px;
+  }
+  .fakeimgj {
+    background: linear-gradient(
+      45deg,
+      rgba(27, 116, 122, 1) 12%,
+      rgba(119, 7, 179, 1) 84%
+    );
+    background-blend-mode: normal;
+    box-shadow: 0px 0px 179px 133px rgba(0, 0, 0, 0.3);
+  }
+  
+  .text {
+    font: normal normal 25px/1.2 "Good Foot";
+    letter-spacing: 0px;
+  }
+  .fakeimgd {
+    background: linear-gradient(
+      45deg,
+      rgba(27, 116, 122, 1) 12%,
+      rgba(119, 7, 179, 1) 84%
+    );
+    background-blend-mode: normal;
+    box-shadow: 0px 0px 179px 133px rgba(0, 0, 0, 0.3);
+  }
+  
+  .text {
+    font: normal normal 25px/1.2 "Good Foot";
+    letter-spacing: 0px;
+  }
+
   .fakeimg {
     border: 0px solid rgba(100, 100, 100, 1);
     border-radius: 40px;
